@@ -1,0 +1,18 @@
+.form-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 16px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: white;
+
+  .form-title {
+    font-size: 22px;
+  }
+  .form-paragraph {
+    line-height: 1.7;
+  }
+  .btn-primary {
+    padding: 10px;
+  }
+}
